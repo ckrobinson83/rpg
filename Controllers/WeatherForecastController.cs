@@ -11,7 +11,8 @@ namespace rpg.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-    
+        //another git test
+        
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
