@@ -2,7 +2,7 @@ using rpg.Models;
 
 namespace rpg.Dtos.Character
 {
-    public class GetCharacterDto
+    public class UpdateCharacterDto
     {
         public int Id { get; set; }
         public string Name { get; set; } = "Frodo";
