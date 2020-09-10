@@ -41,6 +41,7 @@ namespace rpg
             }
 
           //  app.UseHttpsRedirection();
+          //This is just a note to make sure git works
 
             app.UseRouting();
 
